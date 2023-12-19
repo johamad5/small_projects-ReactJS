@@ -1,0 +1,22 @@
+button {
+    width: 250px;
+    height: 80px;
+    font-family: Roboto, sans-serif;
+    font-size: 30px;
+    color: whitesmoke;
+    border: 2px solid whitesmoke;
+    border-radius: 15px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.btnClick:hover {
+    border: 2px solid #217651;
+    color: #217651;
+}
+
+.btnReset:hover {
+    border: 2px solid #92423e;
+    color: #92423e;
+}
