@@ -1,0 +1,40 @@
+.App {
+  height: 100vh;
+  padding-top: 10px;
+  background-color: #1B1B32;
+  font-family: Lato, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.cont-fcc-logo{
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fcc-img{
+  height: 40px;
+  margin-bottom: 80px;
+}
+
+.cont-calculator{
+  width: 400px;
+  height: 600px;
+  padding: 14px;
+  background-color: #99C9FF;
+  border-radius: 10px;
+  border: 3px solid whitesmoke;
+}
+
+.row{
+  margin: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

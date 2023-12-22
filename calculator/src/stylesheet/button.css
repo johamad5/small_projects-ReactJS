@@ -1,0 +1,29 @@
+.cont-btn{
+    height: 83px;
+    display: flex;
+    flex: 1 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 38px;
+    background-color: #1B1B32;
+    color: whitesmoke;
+    border-radius: 25PX;
+    border: 2PX solid whitesmoke;
+    margin: 4px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.cont-btn:hover{
+    background-color: #4343a0;
+}
+
+.operator{
+    background-color: #af724a;
+
+}
+
+.operator:hover{
+    background-color: #FF6600;
+}
